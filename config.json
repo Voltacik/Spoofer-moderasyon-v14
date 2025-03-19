@@ -1,0 +1,39 @@
+{
+  "token": "bot tokeniniz",
+  "rulesChannelId": "kurallar kanalının idsi",
+  "otorol": "kayıtsız rol id",
+  "welcomeChannel": "hoşgeldin mesajını atacagı kanal",
+  "welcomeImageUrl": "./resimler/hosgeldin.png",
+  "logChannel": "Sunucunun yasaklı kelime log kanalı",
+  "ticketCategory": "ticket kategorisinin idsi",
+  "ticketLogChannel": "kapanan ticketlerin logu",
+  "ticketStaffRole": "ticket yetkilisi rolü bu rol idsi harici kimse ticket kapatamaz",
+  "ticketSystem": {
+    "categoryId": "buraya data backupu için tekrar aynı idleri kullanmanız lazım",
+    "logChannelId": "aynı log kanalı",
+    "staffRoleId": "aynı ticket yetkili idsi",
+    "transcriptChannelId": "ticket kapatma rolleri ticket yetkilisi harici kuruclarında ticketlara müdehale etmesini istiyorsanız , ve tırnak koyarak başka roller ekleyebilirsiniz"
+  },
+  "registerSystem": {
+    "verifiedRoleId": "kayıt olan kullanıcıların alacağı rol",
+    "memberRoleId": "üye permi verifed rolle aynı olması gerekiyor",
+    "registerChannelId": "register kanalının idsi",
+    "welcomeImage": "./resimler/welcome.png"
+  },
+  "bannedWords": [
+    "allah",
+    "kitap",
+    "atatürk",
+    "ananı",
+    "sikerim",
+    "sokarım",
+    "orospu",
+    "sqrm"
+   
+  ],
+
+  "whitelist": [
+    ""
+
+  ]
+}

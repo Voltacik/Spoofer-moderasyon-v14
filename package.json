@@ -1,0 +1,31 @@
+{
+     "name": "volta-bot",
+     "version": "1.0.0",
+     "description": "Volta tarafından hazırlanan Discord.js v14 botu.",
+     "main": "index.js",
+     "type": "module",
+     "scripts": {
+          "start": "node index.js"
+     },
+     "keywords": [
+          "discord",
+          "bot",
+          "discord.js",
+          "moderasyon",
+          "guard",
+          "çekiliş"
+     ],
+     "author": "Volta",
+     "license": "MIT",
+     "dependencies": {
+          "@napi-rs/canvas": "^0.1.67",
+          "canvas": "^2.11.2",
+          "discord.js": "^14.18.0",
+          "dotenv": "^16.4.3",
+          "fs-extra": "^11.2.0",
+          "moment": "^2.30.1"
+     },
+     "engines": {
+          "node": ">=20.9.0"
+     }
+}
