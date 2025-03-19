@@ -15,7 +15,7 @@ export default {
                 new ButtonBuilder()
                     .setLabel('Kurallara Git')
                     .setStyle(ButtonStyle.Link)
-                    .setURL('https://discord.com/channels/1349845620516585548/1349849068389535794')
+                    .setURL('kurallar kanalının bağlantısı //id değil bağlantısı//')
             );
 
         
